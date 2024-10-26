@@ -1,4 +1,4 @@
-# Coffee Orders Analysis Dashboard in Excel
+# Coffee Sales Analysis Dashboard in Excel
 
 This project is a comprehensive **Coffee Orders Analysis Dashboard** built in Excel, designed to give businesses insights into sales trends, customer preferences, and geographic distribution. The dashboard provides a user-friendly view of key metrics, including sales breakdown, customer activity, and product demand.
 
