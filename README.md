@@ -3,7 +3,6 @@
 This Coffee Sales Dashboard is a dynamic tool designed to provide a comprehensive overview of coffee sales performance, customer insights, and regional demand analysis. It is divided into several sheets, each curated to deliver specific insights and facilitate data-driven decisions.
 
 ![Dashboard Preview](![image](https://github.com/user-attachments/assets/f54bab8d-4771-4152-b2d1-4a501f86f347)
-)
 
 <br>
 
